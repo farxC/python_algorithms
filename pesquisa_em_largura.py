@@ -1,5 +1,7 @@
 from collections import deque
 
+# Algoritmo retirado do livro Grokking Algorithms (Entendendo algoritmos) 
+# No BFS (Breadth First Search) utilizamos de grafos direcionados a fim de localizar a posição mais curta até determinado resultado.
 grafo = {}
 
 grafo["voce"] = ["alice", "bob", "claire"]

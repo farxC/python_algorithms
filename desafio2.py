@@ -49,3 +49,5 @@ s2 = float(input("Insira o segundo lado do triângulo: "))
 s3 = float(input("Insira o terceiro lado do triângulo: "))
 
 classOfTriangles(s1,s2,s3)
+
+print(CheckIfNegative(-10))
